@@ -25,7 +25,7 @@ SpringApplication.run
 * 내장 Was로 언제 어디서나 같은 환경에서 스프링부트를 배포할 수 있다.
 
 
-@RestController
+@RestController 
 * 컨트롤러를 JSON을 반환하는 컨트롤러로 만들어준다.
 * 예전에는 @ResponseBody를 각 메소드마다 선언했던것을 한번에 사용할 수 있게 해준다.
 
